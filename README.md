@@ -1,5 +1,8 @@
 # ETL_project
 
+![](citi.gif)
+
+
 A look into which characteristics in vehicles drive sales in Norway
 
 Extract
