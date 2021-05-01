@@ -1,5 +1,6 @@
 # ETL_project
-First ETL group project
+
+A look into which characteristics in vehicles drive sales in Norway
 
 Extract
 
