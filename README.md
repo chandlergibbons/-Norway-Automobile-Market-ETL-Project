@@ -11,8 +11,11 @@ From Kaggle, we found our two data sources.  One involved the Fuel Economy usage
 Sources: https://www.kaggle.com/minaboulos/fuel-economy
 https://www.kaggle.com/dmi3kno/newcarsalesnorway?select=norway_new_car_sales_by_model.csv 
 
-![]()
-![]()
+Car Model Specs
+![](car_model_specs.png)
+
+Norway Car Sales
+![](norway_car_sales.png)
 
 Transform
 
