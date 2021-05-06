@@ -11,6 +11,9 @@ From Kaggle, we found our two data sources.  One involved the Fuel Economy usage
 Sources: https://www.kaggle.com/minaboulos/fuel-economy
 https://www.kaggle.com/dmi3kno/newcarsalesnorway?select=norway_new_car_sales_by_model.csv 
 
+![]()
+![]()
+
 Transform
 
 Both datasets had a lot of duplicates that needed to get dropped in order to  establish the primary keys.  For the fuel economy dataset, many columns were not necessary for the overall understanding of the dataset and were dropped.  A column that asked if the fuel economy score given ended up being good was added as an easy identifier for fuel economy.  Numerous duplicates were dropped in order to make way for the primary keys.  For the Norway Sales dataset, a few columns were dropped for more relevant columns.  A new column scoring the sales rating of each car model was added to easily show how well a car had sold during that year.  Hidden characters were found when encoding the csv into latin1, which were then cut out using .str.lstrip().  
