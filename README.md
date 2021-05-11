@@ -25,3 +25,5 @@ Load
 
 The final database features both datasets on a left join with the Model and Year being the Primary Keys for both datasets.  The datasets shared many of the same car models and the year they were manufactured which made determining the keys easy.   With the datasets joined together, it showed primarily the Norway sales followed by the fuel economy score of each car that was graded on each car.  The resulting table is set up for an analysis involving what car characteristics drive car sales in Norway and how they may evolve over time.  
 
+![](joined_table.png)
+
