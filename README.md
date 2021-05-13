@@ -3,7 +3,8 @@
 ![](tumblr_poizienyfA1qms0coo1_500.gif)
 
 
-A look into which characteristics in vehicles drive sales in Norway
+
+For this group project we took a look into which characteristics in vehicles drive sales in Norway. 
 
 Extract
 
