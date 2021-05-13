@@ -8,7 +8,7 @@ For this group project we took a look into which characteristics in vehicles dri
 
 Extract
 
-From Kaggle, we found our two data sources.  One involved the Fuel Economy usage by Car Type, and the other being car sales in Norway, both of which were CSV files.  Using Pandas, dataframes were created from those csv’s, which were then exported as tables to pgAdmin 4. 
+From Kaggle, we found our two data sources.  One involved the Fuel Economy usage by Car Type, and the other being car sales in Norway, both of which were CSV files.  Using Pandas, dataframes were created from those csv’s, which were then exported as tables to Postgresql. 
 Sources: https://www.kaggle.com/minaboulos/fuel-economy
 https://www.kaggle.com/dmi3kno/newcarsalesnorway?select=norway_new_car_sales_by_model.csv 
 
